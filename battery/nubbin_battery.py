@@ -1,4 +1,4 @@
-from battery import Battery
+from battery.battery import Battery
 from yeartodate import add_years_to_date
 
 

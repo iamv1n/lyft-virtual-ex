@@ -10,3 +10,7 @@ This repo contains the code for the Lyft Back-End Engineering Program
 - Python OOPS
 - Unit Testing
 - Test-Driven Development (TDD)
+
+Design [[PDF]](https://github.com/iamv1n/lyft-virtual-ex/blob/main/design/Lyft_SoftwareDesign_forage.pdf)
+
+[Certificate of Completion](https://github.com/iamv1n/lyft-virtual-ex/blob/main/certificate_lyft_forage-1.png)

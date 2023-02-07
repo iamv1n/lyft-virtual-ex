@@ -1,4 +1,4 @@
-# Lyft Engineering Virtual Experience Program
+# Lyft Backend Engineering Virtual Experience Program
 This repo contains the code for the Lyft Back-End Engineering Program
 
 ### Concepts Covered
